@@ -1,0 +1,4 @@
+__pycache__/
+*.png
+synthetic_sne.txt
+.DS_Store
